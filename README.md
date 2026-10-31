@@ -73,4 +73,4 @@ Rapunzel, a princess with magical long golden hair, has spent her entire life lo
 | Release Year | 2010 |
 | Rating | 7/10 |
 
-**Rapunzel: A Tangled Tale:** (https://www.imdb.com/title/tt0398286/plotsummary/)
+- [Rapunzel: A Tangled Tale:](https://www.imdb.com/title/tt0398286/plotsummary/)
